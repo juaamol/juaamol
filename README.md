@@ -19,7 +19,7 @@ I enjoy trying new frameworks and I mostly use React and Angular with typescript
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Svelte 
-- - 🌱 I’m currently learning Vite 
+- 🌱 I’m currently learning Vite 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juaamol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://juaamol.github.io/portfolio-website/home)  
